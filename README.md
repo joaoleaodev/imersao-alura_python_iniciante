@@ -1,1 +1,1 @@
-# imersao-alura_python_iniciante
+# Imersão de Python Iniciante - Alura
