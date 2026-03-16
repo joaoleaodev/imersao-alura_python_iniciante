@@ -70,5 +70,3 @@ If you want to follow my progress or exchange ideas about programming:
 LinkedIn: www.linkedin.com/in/joaoleaodev
 
 GitHub: https://github.com/joaoleaodev
-
-Translated with DeepL.com (free version)
